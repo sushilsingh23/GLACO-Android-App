@@ -20,7 +20,7 @@ one or more items to place an order which will land in the Cart. Users can view 
 <code>Login:</code> The user can login to the app by providing their mail-Id, Roll no and password. In case user forget the password then he/she can also reset it through registered mail id.<br/>
 <code>Registration:</code> The user can register through android app by filling up the registration form which consists of fields Username, Roll no, Faculty Id, GLA mail id, Mobile no, Password etc.
 <div align="center"><img align="left"  src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-SignIn.PNG"><img align="right" height="635" width="388"  src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-SignUp.PNG"></div>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Canteen Menu
 After login user will be able to see the menu items available at the canteen. They can add the items in the cart.
@@ -38,13 +38,15 @@ After selecting a category from the menu, user can choose from the various items
 The items added from the menu can be seen in the cart, user can add/remove the item from the cart. After adding the items in the cart user can place order by providing the delivery address of the item.
 <p align="center"><img src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-Cart.PNG"></p>
 
+## Web App
 > CANTEEN EMPLOYEE
-The canteen management can view the orders placed by the users and can accept/reject the order for delivery. On accepting/rejecting the delivery request a notification will be sent to the user. When the user confirms the completion of delivery, the management will be able to see that the order is completed.
-<p align="center"><img src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-Cart.PNG"></p>
+### Order Page
+The canteen management can view the orders placed by the users and can accept or reject the order for delivery. 
+<p align="center"><img src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-Web-App.PNG"></p>
 
 ## Contributors
 Sushil Singh
 
 ## Contact
-LinkedIn: [Sushil Singh](www.linkedin.com/in/sushilsingh23)
+LinkedIn: [Sushil Singh](www.linkedin.com/in/sushilsingh23) <br>
 Gmail: <ssushilsingh193@gmail.com>
