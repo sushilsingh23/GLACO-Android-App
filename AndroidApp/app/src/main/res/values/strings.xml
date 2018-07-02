@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Glaco</string>
+    <string name="slogan">Your Partner in Campus. Pay and Order on the go. </string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

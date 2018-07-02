@@ -1,0 +1,161 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "http://images.indianexpress.com/2016/10/pet-bottle.jpg",
+      "Name" : "COLD DRINKS"
+    },
+    "02" : {
+      "Image" : "https://i.ytimg.com/vi/qeda-SqUcpY/maxresdefault.jpg",
+      "Name" : "PATTIES"
+    },
+    "03" : {
+      "Image" : "http://www.hartculture.com/hcsuperstore/hc-superstore-cakes/cake-services-2.jpg",
+      "Name" : "CAKES"
+    },
+    "04" : {
+      "Image" : "http://thewoksoflife.com/wp-content/uploads/2013/11/DSC_0178.jpg",
+      "Name" : "NOODLES"
+    },
+	"05" : {
+      "Image" : "http://4.bp.blogspot.com/_Za0PmcA3TIc/RiMOsr0IoAI/AAAAAAAAAfs/9TggggZ6XcU/w1200-h630-p-k-no-nu/snack.jpg",
+      "Name" : "SNACKS"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "Description" : "Two litres",
+      "Image" : "http://www.cityam.com/assets/uploads/main-image/cam_standard_article_main_image/coca-cola-post-strong-earnings-143013712-57ac8c64eadc5.jpg",
+      "MenuId" : "01",
+      "Name" : "COCA COLA",
+      "Price" : "88"
+    },
+    "02" : {
+      "Description" : "Two litres",
+      "Image" : "http://www.mynepalhouse.com/wp-content/uploads/2016/07/IMG_2737.jpg",
+      "MenuId" : "01",
+      "Name" : "FANTA",
+      "Price" : "88"
+    },
+    "03" : {
+      "Description" : "Crunchy Patties with Chesse.",
+      "Image" : "https://www.ndtv.com/cooks/images/veg-patties-620.jpg",
+      "MenuId" : "02",
+      "Name" : "CHEESE PATTIES",
+      "Price" : "21"
+    },
+    "04" : {
+      "Description" : "Delicious Choclate flavour cake. 500gms.",
+      "Image" : "https://freshideen.com/wp-content/uploads/2017/02/ausgefallene-torten-schokoladentorte-dekorieren-erdbeeren.jpg",
+      "MenuId" : "03",
+      "Name" : "CHOCLATE CAKE",
+      "Price" : "250"
+    },
+    "05" : {
+      "Description" : "Instant Maggi noodles",
+      "Image" : "https://lbb.in/bangalore/wp-content/uploads/sites/2/2015/11/Feat.jpg",
+      "MenuId" : "04",
+      "Name" : "PLAIN MAGGI",
+      "Price" : "18"
+    },
+	"06" : {
+      "Description" : "Classic Chinese Chowmeen",
+      "Image" : "https://dinnerthendessert.com/wp-content/uploads/2016/02/Classic-Chinese-Chow-Mein-5.jpg",
+      "MenuId" : "04",
+      "Name" : "CHOWMEEN",
+      "Price" : "30"
+    },
+	"07" : {
+      "Description" : "Strawberry Flovour Cake 500gms.",
+      "Image" : "https://www.tastesoflizzyt.com/wp-content/uploads/2017/03/homemade-strawberry-cake-recipe-11.jpg",
+      "MenuId" : "03",
+      "Name" : "STRAWBERRY CAKE",
+      "Price" : "250"
+    },
+	"08" : {
+      "Description" : "Vanilla Flovour Cake 500gms.",
+      "Image" : "https://www.giftflora.com/userdata/gfx/d420bd1a59703feb0968e68507748314.jpg",
+      "MenuId" : "03",
+      "Name" : "VANILLA CAKE",
+      "Price" : "250"
+    },
+	"09" : {
+      "Description" : "Crunchy and Spicy",
+      "Image" : "https://images-na.ssl-images-amazon.com/images/I/81JD5C23KSL._AC_UL320_SR252,320_.jpg",
+      "MenuId" : "05",
+      "Name" : "KURKURE",
+      "Price" : "20"
+    },
+	"10" : {
+      "Description" : "Crunchy and Spicy",
+      "Image" : "http://www.gropper.in/images/i/UncleChipsSpicyTreat30Gm.jpg",
+      "MenuId" : "05",
+      "Name" : "UNCLE CHIPS",
+      "Price" : "20"
+    },
+	"11" : {
+      "Description" : "Crunchy and Spicy",
+      "Image" : "https://images-na.ssl-images-amazon.com/images/I/81wvG8tmgaL._SL1500_.jpg",
+      "MenuId" : "05",
+      "Name" : "LAYS",
+      "Price" : "20"
+    }
+  },
+  "Requests" : {
+    "1513277790438" : {
+      "address" : "D block 514",
+      "foods" : [ {
+        "price" : "250",
+        "productId" : "04",
+        "productName" : "CHOCLATE CAKE",
+        "quantity" : "1"
+      }, {
+        "price" : "88",
+        "productId" : "02",
+        "productName" : "FANTA",
+        "quantity" : "1"
+      }, {
+        "price" : "250",
+        "productId" : "04",
+        "productName" : "CHOCLATE CAKE",
+        "quantity" : "1"
+      }, {
+        "price" : "18",
+        "productId" : "05",
+        "productName" : "PLAIN MAGGI",
+        "quantity" : "1"
+      } ],
+      "name" : "Sushil Singh",
+      "roll" : "151500563",
+      "status" : "0",
+      "total" : "₹ 606.00"
+    },
+    "1513278026198" : {
+      "address" : "G Block 4131",
+      "foods" : [ {
+        "price" : "250",
+        "productId" : "04",
+        "productName" : "CHOCLATE CAKE",
+        "quantity" : "1"
+      }, {
+        "price" : "21",
+        "productId" : "03",
+        "productName" : "CHEESE PATTIES",
+        "quantity" : "1"
+      } ],
+      "name" : "Suraj",
+      "roll" : "151500511",
+      "status" : "0",
+      "total" : "₹ 271.00"
+    }
+  },
+  "User" : {
+    "151500511" : {
+      "name" : "Suraj",
+      "password" : "123456789"
+    },
+    "151500563" : {
+      "Name" : "Sushil Singh",
+      "Password" : "12345678"
+    }
+  }
+}
