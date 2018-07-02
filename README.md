@@ -47,5 +47,5 @@ The canteen management can view the orders placed by the users and can accept or
 Sushil Singh
 
 ## Contact
-LinkedIn:<a href="www.linkedin.com/in/sushilsingh23">Sushil Singh</a> <br>
+LinkedIn:<a href="https://www.linkedin.com/in/sushilsingh23"> Sushil Singh</a> <br>
 Gmail: <ssushilsingh193@gmail.com>
