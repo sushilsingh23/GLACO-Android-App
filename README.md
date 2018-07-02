@@ -38,7 +38,6 @@ After selecting a category from the menu, user can choose from the various items
 The items added from the menu can be seen in the cart, user can add/remove the item from the cart. After adding the items in the cart user can place order by providing the delivery address of the item.
 <p align="center"><img src="https://github.com/sushilsingh23/GLACO-Android-App/blob/master/AndroidApp/Screenshots/Glaco-Cart.PNG"></p>
 
-## Web App
 > CANTEEN EMPLOYEE
 ### Order Page
 The canteen management can view the orders placed by the users and can accept or reject the order for delivery. 
